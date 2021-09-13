@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2021-01-10'
 title: 'AlgoRyhthm'
 cover: './algorithm.png'
 github: 'https://github.com/Rosa-Kang/vanylaicecream'
