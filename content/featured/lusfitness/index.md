@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Lux Fitness is a simple website made with plain JavaScript, HTML/CSS to study how to utilize GSAP and Grid for modern website styling.
+Lus Fitness is a simple website made with plain JavaScript, HTML/CSS to study how to utilize GSAP and Grid for modern website styling.
