@@ -1,5 +1,5 @@
 ---
-date: '2021-01-20'
+date: '2021-07-20'
 title: 'Effortless Jewelry Shopping mall'
 cover: './demo.png'
 github: 'https://github.com/Rosa-Kang/ecommerce-renewal'

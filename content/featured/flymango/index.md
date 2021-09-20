@@ -1,5 +1,5 @@
 ---
-date: '2021-01-30'
+date: '2021-08-30'
 title: 'Flymango'
 cover: './octoprofile.png'
 github: 'https://github.com/Rosa-Kang/mernstack-blog'

@@ -1,5 +1,5 @@
 ---
-date: '2021-04-07'
+date: '2020-04-07'
 title: 'Lus Fitness'
 cover: './lusfitness.png'
 external: 'https://lusfitness.netlify.app/'
