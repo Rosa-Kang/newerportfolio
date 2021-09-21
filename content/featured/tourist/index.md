@@ -7,6 +7,7 @@ external: 'https://explorosie.netlify.app/'
 tech:
   - React Hooks
   - Gatsby
+  - Graphql
   - Styled Component
   - AOS
   - Framer-motion
