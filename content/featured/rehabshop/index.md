@@ -3,6 +3,7 @@ date: '2021-05-07'
 title: 'Rehab Health Products'
 cover: './rehab.png'
 external: 'https://rehabx.shop/'
+kind : 'Project at Work'
 tech:
   - WordPress
   - Javascript

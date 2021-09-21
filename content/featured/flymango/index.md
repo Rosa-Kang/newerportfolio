@@ -4,6 +4,7 @@ title: 'Flymango'
 cover: './octoprofile.png'
 github: 'https://github.com/Rosa-Kang/mernstack-blog'
 external: 'https://flymango.netlify.app/'
+kind : 'Side Project'
 tech:
   - React Hooks
   - Redux

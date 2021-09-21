@@ -311,6 +311,7 @@ const Featured = () => {
               tech
               github
               external
+              kind
             }
             html
           }
@@ -343,13 +344,13 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover } = frontmatter;
+            const { external, title, tech, github, cover, kind } = frontmatter;
 
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
                   <div>
-                    <p className="project-overline">Featured Project</p>
+                    <p className="project-overline">{kind}</p>
 
                     <h3 className="project-title">
                       <a href={external}>{title}</a>

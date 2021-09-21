@@ -1,9 +1,10 @@
 ---
-date: '2021-07-20'
+date: '2021-05-06'
 title: 'Effortless Jewelry Shopping mall'
 cover: './demo.png'
 github: 'https://github.com/Rosa-Kang/ecommerce-renewal'
 external: 'https://effortless-jewelry.netlify.app/'
+kind : 'Side Project'
 tech:
   - React Hooks
   - JavaScript

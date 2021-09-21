@@ -4,6 +4,7 @@ title: 'Explorosie'
 cover: './explorosie.png'
 github: 'https://github.com/Rosa-Kang/react-gatsby'
 external: 'https://explorosie.netlify.app/'
+kind : 'Side Project'
 tech:
   - React Hooks
   - Gatsby
