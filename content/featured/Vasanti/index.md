@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-Vasanti Estate Winery
+Dev Team Collaboration. Vasanti Estate Winery
