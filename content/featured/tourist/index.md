@@ -6,7 +6,7 @@ github: 'https://github.com/Rosa-Kang/react-gatsby'
 external: 'https://explorosie.netlify.app/'
 kind : 'Side Project'
 tech:
-  - React Hooks
+  - React.js(Hooks)
   - Gatsby
   - Graphql
   - Styled Component

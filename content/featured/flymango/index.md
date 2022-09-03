@@ -1,12 +1,12 @@
 ---
-date: '2021-05-08'
+date: '2019-05-08'
 title: 'Flymango'
 cover: './octoprofile.png'
 github: 'https://github.com/Rosa-Kang/mernstack-blog'
 external: 'https://flymango.netlify.app/'
 kind : 'Side Project'
 tech:
-  - React Hooks
+  - React.js(Hooks)
   - Redux
   - Node.js
   - Express
