@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I’m a software engineer specializing in building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered web-products at <a href="https://whitecanvasdesign.ca/">Whitecanvasdesign</a>.
+      I’m a software engineer specializing in building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered web-products at <a target="_blank" href="https://whitecanvasdesign.ca/">Whitecanvasdesign</a>.
     </p>
   );
   const five = (
