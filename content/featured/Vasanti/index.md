@@ -1,11 +1,11 @@
 ---
-date: '2022-08-25'
+date: '2022-04-25'
 title: 'Vasanti Winery'
 cover: './vasantiwines.png'
 external: 'https://vasantiwines.com'
 kind : 'Project at Work'
 tech:
-  - WordPress
+  - WordPress(Custom Theme)
   - PHP
   - JQuery
   - HTML&SASS
@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-Dev Team Collaboration. Vasanti Estate Winery
+Vasanti Estate Winery. Dev Team Collaboration

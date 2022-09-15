@@ -1,11 +1,11 @@
 ---
-date: '2022-04-10'
+date: '2022-05-10'
 title: 'Mend Marketing'
 cover: './mend.png'
 external: 'https://mendmarketing.ca/'
 kind : 'Project at Work'
 tech:
-  - WordPress
+  - WordPress(Custom Theme)
   - JQuery
   - PHP
   - HTML&SASS

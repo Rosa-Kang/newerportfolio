@@ -5,7 +5,7 @@ cover: './brown&co.png'
 external: 'https://brownandco.ca/'
 kind : 'Project at Work'
 tech:
-  - WordPress
+  - WordPress(Custom Theme)
   - PHP
   - JQuery
   - HTML&SASS
